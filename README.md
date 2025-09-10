@@ -161,6 +161,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ![IMG_20250909_091459](https://github.com/user-attachments/assets/8d1e4a58-da5b-4d8a-92ac-a327e0df8864)
 
+## Layout of the board:
+
+<img width="249" height="328" alt="448235376-1293e3c0-b6cc-42fc-b08b-22af0036c58e" src="https://github.com/user-attachments/assets/87374a3e-07b1-4601-a84e-c4b7f84f1885" />
 
  
 ## Result :
